@@ -2,7 +2,7 @@
 
 This is an interactive dashboard project built with **Streamlit** to analyze and visualize sales performance data from an e-commerce platform. The dashboard allows users to dynamically explore sales trends, analyze customer behavior, and understand order patterns over time.
 
-Link deployment: 
+Link deployment: https://ecommercevisualization.streamlit.app/
 
 This project is an implementation of the Exploratory Data Analysis (EDA) process, the details of which can be viewed at [this link](https://drive.google.com/file/d/1dAjg_r5oaoYhGH8AvF1IlV11kiory9Kc/view?usp=sharing).
 
